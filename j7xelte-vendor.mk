@@ -35,6 +35,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/bcm4343A0_V0080.0285.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm4343A0_V0080.0285.hcd \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/bcm43438A1_V0048.0201.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43438A1_V0048.0201.hcd \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/fimc_is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib.bin \
+    vendor/samsung/j7xelte/proprietary/vendor/firmware/nfc/sec_s3nrn81_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/nfc/sec_s3nrn81_firmware.bin \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/setfile_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3l2.bin \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/setfile_5e3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_5e3.bin \
     vendor/samsung/j7xelte/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl.so \
@@ -43,6 +44,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/vendor/lib/libexynoscamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera.so \
     vendor/samsung/j7xelte/proprietary/vendor/lib/libexynoscamera3.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexynoscamera3.so \
     vendor/samsung/j7xelte/proprietary/vendor/lib/libhwjpeg.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhwjpeg.so \
-	vendor/samsung/j7xelte/proprietary/vendor/lib/vendor.samsung.hardware.bluetooth@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.bluetooth@2.0.so \
+    vendor/samsung/j7xelte/proprietary/vendor/lib/vendor.samsung.hardware.bluetooth@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.samsung.hardware.bluetooth@2.0.so \
     vendor/samsung/j7xelte/proprietary/vendor/lib64/nfc_nci_sec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/nfc_nci_sec.so \
     vendor/samsung/j7xelte/proprietary/vendor/lib64/vendor.samsung.hardware.nfc@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.samsung.hardware.nfc@2.0.so
